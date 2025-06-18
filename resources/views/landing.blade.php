@@ -273,8 +273,8 @@
                     <div class="col mt-4 m-md-0 text-center">
                         <div class="team-wrap">
                             <img src="landing/img/team3.jpg" alt="">
-                            <p>15-2022-221</p>
-                            <h6>Irfan Maulana Iskhandar</h6>
+                            <p>15-2022-</p>
+                            <h6>Uknown</h6>
                             <div class="social-team">
                                 <ul class="list-social-team">
                                     <li class="icon-team tipped" data-title="<span>twitter</span>"
@@ -292,8 +292,8 @@
                     <div class="col mt-4 m-xl-0 text-center">
                         <div class="team-wrap">
                             <img src="landing/img/team4.jpg" alt="">
-                            <p>15-2022-245</p>
-                            <h6>Deryl arsyil adzim</h6>
+                            <p>15-2022-</p>
+                            <h6>Uknown</h6>
                             <div class="social-team">
                                 <ul class="list-social-team">
                                     <li class="icon-team tipped" data-title="<span>twitter</span>"
@@ -311,8 +311,8 @@
                     <div class="col mt-4 m-md-0 text-center">
                         <div class="team-wrap">
                             <img src="landing/img/team3.jpg" alt="">
-                            <p>15-2022-231</p>
-                            <h6>Reza Putra Adwiansyah</h6>
+                            <p>15-2022-</p>
+                            <h6>Uknown</h6>
                             <div class="social-team">
                                 <ul class="list-social-team">
                                     <li class="icon-team tipped" data-title="<span>github</span>"
