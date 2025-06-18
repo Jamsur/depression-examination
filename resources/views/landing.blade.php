@@ -163,7 +163,7 @@
                 <div class="row">
                     <div class="col-md-12 page-center-text-wrap text-center">
                         <h1 class="parallax"><strong>-</strong> Project akhir semester mata kuliah
-                            <strong>-</strong><br><span>SISTEM PAKAR</span></h1>
+                            <strong>-</strong><br><span>Sistem Pakar</span></h1>
                     </div>
                 </div>
             </div>
@@ -212,9 +212,9 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-5 text-center mb-5">
-                        <h4>Kelompok A-9</h4>
+                        <h4>Kelompok-A9</h4>
                         <p class="lead">Sistem Pakar</p>
-                        <p class="lead">Asep Nana Hermana.,S.T.,M.T.</p>
+                        <p class="lead">Asep Nana Hermana., S.T., M.T.</p>
                     </div>
                 </div>
             </div>
@@ -273,8 +273,8 @@
                     <div class="col mt-4 m-md-0 text-center">
                         <div class="team-wrap">
                             <img src="landing/img/team3.jpg" alt="">
-                            <p>15-2022-</p>
-                            <h6>Uknown</h6>
+                            <p>15-2022-231</p>
+                            <h6>Reza Putra Adwiansyah</h6>
                             <div class="social-team">
                                 <ul class="list-social-team">
                                     <li class="icon-team tipped" data-title="<span>twitter</span>"
@@ -292,8 +292,8 @@
                     <div class="col mt-4 m-xl-0 text-center">
                         <div class="team-wrap">
                             <img src="landing/img/team4.jpg" alt="">
-                            <p>15-2022-</p>
-                            <h6>Uknown</h6>
+                            <p>15-2022-221</p>
+                            <h6>Irfan Maulana Iskhandar</h6>
                             <div class="social-team">
                                 <ul class="list-social-team">
                                     <li class="icon-team tipped" data-title="<span>twitter</span>"
@@ -311,8 +311,8 @@
                     <div class="col mt-4 m-md-0 text-center">
                         <div class="team-wrap">
                             <img src="landing/img/team3.jpg" alt="">
-                            <p>15-2022-</p>
-                            <h6>Uknown</h6>
+                            <p>15-2022-245</p>
+                            <h6>Deryl Arsyil Adzim</h6>
                             <div class="social-team">
                                 <ul class="list-social-team">
                                     <li class="icon-team tipped" data-title="<span>github</span>"
